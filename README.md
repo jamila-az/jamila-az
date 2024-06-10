@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Jamila! 👋
 
-<!--
-**jamila-az/jamila-az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/jamila-az?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=jamila-az&color=pink)
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9DPxggCghm5wjBuA/giphy.gif" width="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who loves creating beautiful and functional software.
+
+## 💖 My Skills
+- **Languages**: Python, JavaScript, HTML, CSS, Java, R
+- **Frameworks**: React, Django, Firebase
+
+## 📊 GitHub Stats
+![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamila-az&show_icons=true&theme=pink)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamila-az&layout=compact&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamila-az&theme=pink)](https://git.io/streak-stats)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://uk.linkedin.com/in/jamila-magamedova))
+
