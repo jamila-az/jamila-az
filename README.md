@@ -1,9 +1,9 @@
 # Hello, I'm Jamila! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/jamila-az?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=jamila-az&color=dracula)
+![Profile views](https://komarev.com/ghpvc/?username=jamila-az)
 
-<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 
 I'm a passionate developer who loves creating beautiful and functional software.
 
