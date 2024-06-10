@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jamila-az?label=Follow&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=jamila-az)
 
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="300"/>
 
 I'm a passionate developer who loves creating beautiful and functional software.
 
